@@ -169,7 +169,7 @@ Final AI Response
 
 <img width="1000" alt="Home Page" src="https://github.com/souravsaha51/VideoNote-AI/blob/main/notetube/assets/home_page.png">
 
-## AI Video Summarization
+## RAG Pipeline Architecture
 
 <img width="1000" alt="AI Summary" src="https://github.com/souravsaha51/VideoNote-AI/blob/main/notetube/assets/pic1.png">
 
@@ -177,10 +177,6 @@ Final AI Response
 ## Streamlit Dashboard
 
 <img width="1000" alt="AI Chat" src="https://github.com/souravsaha51/VideoNote-AI/blob/main/notetube/assets/pic2.png">
-
-## RAG Pipeline Architecture
-
-<img width="1000" alt="RAG Architecture" src="https://github.com/souravsaha51/VideoNote-AI/blob/main/notetube/assets/pic3.png">
 
 
 
