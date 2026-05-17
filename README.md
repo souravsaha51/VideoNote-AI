@@ -1,8 +1,8 @@
-# VideoNote AI – AI Powered YouTube Summarization & Conversational Assistant
+# VideoNote AI – AI Powered YouTube Assistant
 
 This is an AI-powered YouTube video summarization and conversational assistant platform built using Streamlit, LangChain, LangGraph, Gemini 2.5 Flash Lite, FAISS, and advanced Retrieval-Augmented Generation (RAG) architecture.
 
----
+
 
 # Description
 
@@ -17,7 +17,7 @@ The platform is designed for:
 - Educational lectures
 - News and research content
 
----
+
 
 # Features
 
@@ -57,7 +57,7 @@ The platform is designed for:
 - Separate ingestion, indexing, retrieval, and generation layers.
 - Production-ready modular backend design.
 
----
+
 
 # Technologies Used
 
@@ -91,7 +91,7 @@ The platform is designed for:
 - python-dotenv
 - sentence-transformers
 
----
+
 
 # System Architecture
 
@@ -125,7 +125,7 @@ Guardrails + Memory
 Final AI Response
 ```
 
----
+
 
 # Workflow
 
@@ -163,7 +163,7 @@ Final AI Response
 - Monitor workflows using LangSmith.
 - Evaluate response quality using RAGAS.
 
----
+
 
 # Installation
 
@@ -196,7 +196,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
----
+
 
 # Required Dependencies
 
@@ -219,7 +219,7 @@ pip install fastapi
 pip install uvicorn
 ```
 
----
+
 
 # Environment Variables
 
@@ -233,7 +233,7 @@ LANGCHAIN_TRACING_V2=true
 LANGCHAIN_PROJECT=VideoNote AI
 ```
 
----
+
 
 # Run the Application
 
@@ -243,7 +243,7 @@ LANGCHAIN_PROJECT=VideoNote AI
 streamlit run app.py
 ```
 
----
+
 
 # Project Structure
 
@@ -266,7 +266,7 @@ VideoNote AI/
 └── utils/
 ```
 
----
+
 
 # Advanced Features
 
@@ -280,7 +280,7 @@ VideoNote AI/
 - Hallucination reduction guardrails
 - Memory-enabled conversational workflows
 
----
+
 
 # Future Improvements
 
@@ -294,7 +294,7 @@ VideoNote AI/
 - Cloud deployment
 - Real-time streaming responses
 
----
+
 
 # Performance Optimization
 
@@ -304,7 +304,7 @@ VideoNote AI/
 - Modular microservice-ready architecture
 - LangSmith monitoring for debugging and observability
 
----
+
 
 # Use Cases
 
@@ -315,7 +315,7 @@ VideoNote AI/
 - Technical interview preparation
 - News and trend analysis
 
----
+
 
 # Conclusion
 
